@@ -15,5 +15,5 @@ The app analyzes text sentiment and predicts whether the sentiment is:
 
 ## Live Demo
 
-[Open AI Sentiment Analyzer]([https://your-app-link.streamlit.app](http://localhost:8501/))
+[Open AI Sentiment Analyzer](http://localhost:8501/)
 
