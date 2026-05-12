@@ -12,3 +12,8 @@ The app analyzes text sentiment and predicts whether the sentiment is:
 - NLP
 - TextBlob
 - Streamlit
+
+## Live Demo
+
+[Open AI Sentiment Analyzer]([https://your-app-link.streamlit.app](http://localhost:8501/))
+
